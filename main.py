@@ -1,3 +1,5 @@
+""" Created by: Leo Martinez III in Spring 2022 """
+
 from array_stack import ArrayStack as AS
 
 Original = AS()
